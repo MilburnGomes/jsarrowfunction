@@ -1,5 +1,5 @@
 Arrow function expressions
-
+```javascript
 console.log('Welcome to Arrow Functions!');
 
 // no parameters
@@ -55,3 +55,4 @@ console.log(hello8('milburn', 'gomes'));
 // two parameters, arrow function single line 
 const hello9 = (x,y) =>  "Hello, " + x + " " + y;
 console.log('two parameters, arrow function single line ' + hello9('milburn', 'gomes'));
+```
